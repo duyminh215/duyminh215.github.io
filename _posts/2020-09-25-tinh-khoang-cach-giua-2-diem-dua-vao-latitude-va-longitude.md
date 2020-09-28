@@ -31,7 +31,7 @@ Vấn đề bây giờ là tính khoảng cách nối thẳng giữa 2 điểm t
 
 Chúng ta có thể search trên mạng để ra được công thức của việc tính toán khoảng cách giữa 2 điểm dựa vào latitude vào longitude. 
 
-Công thức đó các bạn có thể vào đây tham khảo: http://www.movable-type.co.uk/scripts/latlong.html.
+Công thức đó các bạn có thể vào đây tham khảo: [http://www.movable-type.co.uk/scripts/latlong.html](http://www.movable-type.co.uk/scripts/latlong.html).
 
 Với công thức trên, chúng ta có thể sử dụng code để tính toán được khoảng cách đường thẳng giữa 2 điểm bất kì dựa vào latitude và longitude. 
 
@@ -64,11 +64,11 @@ Google đã có hàm đó cho chúng ta. Tuy nhiên, muốn sử dụng hàm đ�
 Qua nghiên cứu thì mình đã tìm được một thư viện open source rất hay để tính khoảng cách đường đi giữa 2 tọa độ.
 
 #### 3. Tính khoảng cách đường đi giữa 2 điểm có tọa độ latitude và longitude biết trước
-Thư viện mình đã sử dụng có tên là Graphhopper, mã nguồn mở ở link sau: https://github.com/graphhopper/graphhopper.
+Thư viện mình đã sử dụng có tên là Graphhopper, mã nguồn mở ở link sau:[https://github.com/graphhopper/graphhopper](https://github.com/graphhopper/graphhopper).
 
 Các bạn cần phải có một data về bản đồ Việt Nam import vào trong thư viện này để tính toán khoảng cách giữa 2 điểm có latitude và longitude biết trước.
 
-Các bạn download file về tọa độ bản đồ Việt Nam ở đây http://download.geofabrik.de/asia/vietnam.html và sẽ được một file có dạng vietnam.osm.pbf.
+Các bạn download file về tọa độ bản đồ Việt Nam ở đây [http://download.geofabrik.de/asia/vietnam.html](http://download.geofabrik.de/asia/vietnam.html) và sẽ được một file có dạng vietnam.osm.pbf.
 
 Đây là file chứa tọa độ về các con đường mà những người xây dựng bản đồ đã dựng sẵn. 
 
@@ -83,4 +83,4 @@ Vì là tính khoảng cách đường đi giữa 2 điểm nên chúng ta cần
 Qua quá trình tìm hiểu của mình, các bạn nên chọn phương tiện là \"car\" sẽ ra được khoảng cách đường đi sát với google nhất.
 
 Sau đây là source code mình đã test để tính khoảng cách.
-https://github.com/duyminh215/routing-api
+[https://github.com/duyminh215/routing-api](https://github.com/duyminh215/routing-api)
