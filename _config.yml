@@ -6,3 +6,4 @@ description: Duy Minh's Blog
 # Where are tags and categories displayed
 tag_page: '/tags'
 category_page: '/categories'
+google_analytics: UA-179173149-1
