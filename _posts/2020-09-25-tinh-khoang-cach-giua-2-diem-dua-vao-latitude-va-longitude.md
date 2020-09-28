@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Tính khoảng cách giữa hai điểm dựa vào latitude và longitude"
+category: Java
+tags: [Java, Location]
 date: 2020-09-25
 ---
 Code project dùng để tính khoảng cách giữa 2 điểm latitude, longitude theo đường đi bộ hoặc xe máy, 
