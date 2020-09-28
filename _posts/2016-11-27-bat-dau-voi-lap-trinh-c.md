@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bắt đầu với lập trình C"
-category: Java
+category: C
 tags: [C, C++]
 date: 2016-11-27
 ---
