@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Bắt đầu với lập trình C"
+category: Java
+tags: [C, C++]
 date: 2016-11-27
 ---
 Xin chào các bạn, hôm nay mình sẽ bắt đầu viết bài về lập trình C cơ bản cho người mới bắt đầu. 
