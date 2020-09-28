@@ -4,5 +4,5 @@ title: Duy Minh's Blog
 description: Duy Minh's Blog
 
 # Where are tags and categories displayed
-tag_page: '/tags/'
-category_page: '/categories/'
+tag_page: '/tags'
+category_page: '/categories'
