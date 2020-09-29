@@ -2,7 +2,7 @@
 layout: post
 title: "[Video tutorial] Bài 3: Sử dụng thư viện toán học trong C"
 category: c
-tags: [C++]
+tags: [C++, video tutorial]
 date: 2017-02-28
 ---
 
