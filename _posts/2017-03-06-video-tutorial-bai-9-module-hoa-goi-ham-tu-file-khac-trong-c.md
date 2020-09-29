@@ -14,7 +14,7 @@ Trong bài này, chúng ta sẽ học cách tách file và viết hàm trong fil
 
 Video chi tiết các bạn tham khảo:
 
-https://www.youtube.com/watch?v=XFxCmJ7T8j0
+[https://www.youtube.com/watch?v=XFxCmJ7T8j0](https://www.youtube.com/watch?v=XFxCmJ7T8j0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFxCmJ7T8j0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
