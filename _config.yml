@@ -3,7 +3,7 @@ name: Duy Minh
 title: Duy Minh's Blog
 description: Duy Minh's Blog
 
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 
 # Where are tags and categories displayed
