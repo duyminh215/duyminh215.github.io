@@ -2,7 +2,7 @@
 layout: post
 title: "[Video tutorial] Bài 6: Vòng lặp while, vòng lặp for trong C"
 category: c
-tags: [C++]
+tags: [C++, video tutorial]
 date: 2017-03-03
 ---
 
