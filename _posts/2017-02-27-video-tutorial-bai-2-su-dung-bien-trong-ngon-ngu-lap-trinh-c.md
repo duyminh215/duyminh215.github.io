@@ -2,7 +2,7 @@
 layout: post
 title: "[Video tutorial] Bài 2: Sử dụng biến trong ngôn ngữ lập trình C"
 category: c
-tags: [C++]
+tags: [C++, video tutorial]
 date: 2017-02-27
 ---
 
