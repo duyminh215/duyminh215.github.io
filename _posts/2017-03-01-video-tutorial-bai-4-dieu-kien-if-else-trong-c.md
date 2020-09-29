@@ -2,7 +2,7 @@
 layout: post
 title: "[Video tutorial] Bài 4: Điều kiện if else trong C"
 category: c
-tags: [C++]
+tags: [C++, video tutorial]
 date: 2017-03-01
 ---
 
