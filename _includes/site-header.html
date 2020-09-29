@@ -22,15 +22,10 @@
         </label>
 
         <div class="trigger">
-          {% for ref in page_refs %}
-            {% assign my_page = site.pages | where: "ref", ref | first %}
-            {% if my_page.title %}
-              {% if my_page.title contains "404" %}
-              {% else %}
-                <a class="page-link" href="{{ my_page.url | absolute_url }}">{{ my_page.title | escape }}</a>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
+          <a class="page-link" href="https://duyminh215.github.io/categories.html#c">Lập trình C++</a>
+          <a class="page-link" href="https://duyminh215.github.io/categories.html#java">Lập trình Java</a>
+          <a class="page-link" href="https://duyminh215.github.io/categories.html#mysql">MySQL</a>
+          <a class="page-link" href="https://duyminh215.github.io/categories.html#python">Lập trình Python</a>
         </div>
       </nav>
     {% endif %}
