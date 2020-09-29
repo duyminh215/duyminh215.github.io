@@ -25,6 +25,7 @@ Sau khi học xong bài học, các bạn hãy làm bài tập.
 <span style="color: #ff0000;">Bài tập:</span>
 
 <span style="color: #ff0000;">1. Hiển thị một menu món ăn dựa vào số, khi người dùng chọn số nào thì hiển thị rằng họ đã chọn món ăn đó.</span>
+
 <span style="color: #ff0000;"> 2.Nhập vào một số và in ra màn hình số ngày tương ứng với tháng đó</span>
 
 Cảm ơn các bạn.
