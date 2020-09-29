@@ -16,7 +16,7 @@ Phần tiếp theo chúng ta sẽ học các kỹ thuật nâng cao trong lập 
 
 Video chi tiết các bạn tham khảo:
 
-https://www.youtube.com/watch?v=2Ss_opckYPg
+[https://www.youtube.com/watch?v=2Ss_opckYPg](https://www.youtube.com/watch?v=2Ss_opckYPg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Ss_opckYPg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
