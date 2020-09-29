@@ -2,7 +2,7 @@
 layout: post
 title: "[Video tutorial] Bài 1: Tìm hiểu ngôn ngữ C - hello world"
 category: c
-tags: [C++]
+tags: [C++, video tutorial]
 date: 2017-02-26
 ---
 
