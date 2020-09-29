@@ -17,6 +17,7 @@ print x &lt; 3 # prints out True
 ```
 
 Chú ý rằng phép gán sử dụng một dấu "=" trong khi phép so sánh sử dụng 2 dấu "==". Còn phép so sánh khác thì dùng dấu "!=".
+
 ***Phép toán logic***
 
 Phép and và or cho phép sử dụng nhiều biểu thức so sánh, ví dụ như sau:
