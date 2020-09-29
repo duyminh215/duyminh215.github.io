@@ -39,6 +39,7 @@ title: Duy Minh's Blog
     {% else %}
     <span class="pagination-item older">Older</span>
     {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
     <a class="pagination-item newer" href="/">Newer</a>
