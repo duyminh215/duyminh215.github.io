@@ -3,7 +3,7 @@ layout: post
 title: "Giới thiệu khóa học MySQL cho developer"
 category: MySQL
 tags: [MySQL, MySQL for developer]
-date: 2020-09-25
+date: 2023-11-08
 ---
 # Khóa học toàn diện về MySQL dành cho developer
 
