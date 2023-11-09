@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giới thiệu về cấu trúc bảng (Schema)"
+title: "MySQL cho developer 1: Giới thiệu về cấu trúc bảng (Schema)"
 category: MySQL
 tags: [MySQL, MySQL for developer]
 date: 2023-11-08
