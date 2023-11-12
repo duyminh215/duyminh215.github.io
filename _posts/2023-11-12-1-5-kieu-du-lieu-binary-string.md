@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL cho developer 1.2: Kiểu dữ liệu Binary String"
+title: "MySQL cho developer 1.5: Kiểu dữ liệu Binary String"
 category: MySQL
 tags: [MySQL, MySQL for developer]
 date: 2023-11-12
